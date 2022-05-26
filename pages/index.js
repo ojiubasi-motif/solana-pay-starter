@@ -7,7 +7,7 @@
 }
 import React, { useState, useEffect } from "react";
 import CreateProduct from "../components/CreateProduct";
-import Product from "../components/product";
+import Product from "../components/Product";
 import HeadComponent from "../components/Head";
 
 import { useWallet } from "@solana/wallet-adapter-react";
