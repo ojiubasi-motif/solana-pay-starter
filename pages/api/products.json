@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Beats by Dre headphones",
+    "price": "15",
+    "description": "Get this Beats by dre headphones Art for only $15! Includes more than 7 hot artworks for incoming products!",
+    "image_url": "https://i.imgur.com/AxRwIYI.jpeg",
+    "filename": "motif-mall-on-solana-pay",
+    "hash": "QmUPgZ7Qx63ZeVVWXhAZt977fF1D6673jMP2NYGQbMWYUW"
+  },
+  {
+    "id": 2,
+    "name": "headset sample",
+    "price": "5",
+    "image_url": "https://i.imgur.com/Sq5Sq4B.jpeg",
+    "description": "just a sample of what a product upload to IPFS should be",
+    "filename": "product2.png",
+    "hash": "QmSZDABD8eGeEpoGY5SMgDxbLS1Ej5HwNnMjmc2bFiXYgA"
+  },
+  {
+    "id": 3,
+    "name": "Headphone case",
+    "price": "10",
+    "image_url": "https://bafybeicz5tztko5gkaaya26iw5wp6c6cyofwigfuim7vlruoxtgp3tu234.ipfs.infura-ipfs.io/case.png",
+    "description": "here is to neatly pack your gadget with style and finesse"
+  },
+  {
+    "id": 4,
+    "name": "Gold Headset",
+    "price": "72",
+    "image_url": "https://bafybeicz5tztko5gkaaya26iw5wp6c6cyofwigfuim7vlruoxtgp3tu234.ipfs.infura-ipfs.io/product3.png",
+    "description": "You can never go wrong with this color combo. Everyone loves 'GOLD', Aye!",
+    "filename": "product3.png",
+    "hash": "QmNSHeAjCKwq2q1R6gmXjBEd6kX7QAJgSnVdXtZUBrfiUo"
+  }
+]
